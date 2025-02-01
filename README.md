@@ -59,5 +59,5 @@ MIT License
 ### Author
 **Ramanchi Rishi Sai Teja**
 
-📌 GitHub: [yourusername](https://github.com/xenon1919)
-📌 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+📌 GitHub: [xenon1919](https://github.com/xenon1919)
+
