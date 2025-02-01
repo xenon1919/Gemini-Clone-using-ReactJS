@@ -1,8 +1,63 @@
-# React + Vite
+# Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Gemini AI clone built using the Gemini API and React.js.
 
-Currently, two official plugins are available:
+## Features
+- Chat interface powered by Gemini API
+- User-friendly UI with real-time responses
+- Supports text-based conversations
+- Lightweight and fast performance
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- Gemini API
+
+## Installation
+
+### Prerequisites
+- Node.js (>= 14.x)
+- NPM or Yarn
+- Gemini API key (from Google AI)
+
+### Steps to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/xenon1919/Gemini-Clone-using-ReactJS.git
+   cd gemini-clone
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. Create a `.env` file in the root directory and add your Gemini API key:
+   ```env
+   REACT_APP_GEMINI_API_KEY=your_api_key_here
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   # or
+   yarn start
+   ```
+
+5. Open your browser and go to `http://localhost:3000`
+
+## Contributing
+Feel free to fork the project and submit pull requests. 
+
+## License
+MIT License
+
+---
+
+### Author
+**Ramanchi Rishi Sai Teja**
+
+
+
